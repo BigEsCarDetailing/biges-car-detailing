@@ -441,3 +441,29 @@ Professional, clean, and great attention to detail.
 
 </body>
 </html>
+<section>
+
+<h2>Schedule Your Detail</h2>
+
+<p>
+Choose your service, pick a date, and select a time that works for you.
+</p>
+
+<div style="
+max-width:900px;
+margin:auto;
+background:#181818;
+padding:20px;
+border-radius:15px;
+">
+
+<iframe 
+src="YOUR_BOOKING_LINK_HERE"
+width="100%"
+height="700"
+frameborder="0">
+</iframe>
+
+</div>
+
+</section>
